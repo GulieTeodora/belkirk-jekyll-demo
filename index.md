@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Belkirk College4
 partners:
 - "/uploads/2017/11/13/biotech.png"
 - "/uploads/2017/11/13/stem.png"
@@ -17,7 +17,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Engineering and Health Sciences3
 textline: |
   Belkirk College of Engineering
 
