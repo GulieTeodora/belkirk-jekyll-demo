@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College4
+heading: Belkirk College444
 partners:
 - "/uploads/2017/11/13/biotech.png"
 - "/uploads/2017/11/13/stem.png"
